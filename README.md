@@ -4,6 +4,8 @@ MoodBot AI is a multi-personality AI chatbot built with Python, LangChain, Groq 
 
 🔗 **Live Demo:** https://moodbot-ai-hgamojebjlxp7gs8zhbgzi.streamlit.app
 
+<img width="1908" height="927" alt="screenshot,png" src="https://github.com/user-attachments/assets/79b7944b-bec9-49a4-9fd3-93f315e2a1ae" />
+
 
  
 
